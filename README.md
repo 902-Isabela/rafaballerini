@@ -25,4 +25,4 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   
 </div>
 
-Criar tabela em relação a linguas faladas e Hard Skills. 
+Criar tabela em relação a linguas faladas e Hard Skills.
